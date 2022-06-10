@@ -1,3 +1,3 @@
 # SignalAndImageProcessing
 
-This is a program for a lot og signal and image processing
+This is a program for a lot of signal and image processing
